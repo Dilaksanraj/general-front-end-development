@@ -1,0 +1,9 @@
+.h1{
+    animation: revert;
+    text-align: center;
+    color: brown;
+}
+.max_height{
+
+    max-height: 400px!important;
+}
